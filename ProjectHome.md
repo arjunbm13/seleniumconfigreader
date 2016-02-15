@@ -1,0 +1,1 @@
+when i work with selenium i need have all my settings in one place and for solutions this problem i create this java class that reads the configuration file and returns the selenium desired settings
